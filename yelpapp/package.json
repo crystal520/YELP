@@ -1,0 +1,14 @@
+{
+  "name": "YelpAnalysis",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "*",
+    "mongoose": "3.6.4",
+    "ejs-locals": "~1.0.2"
+  }
+}
